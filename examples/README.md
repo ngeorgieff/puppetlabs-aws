@@ -1,6 +1,7 @@
 The following examples demonstrate using the AWS module to create
 infrastructure.
 
+* [ITS Templates](its-templates/) - ITS templates
 * [Puppet Enterprise](puppet-enterprise/) - quickly startup a small
   Puppet Enterprise cluster using the AWS module
 * [Managing DNS](manage-dns/) - manage DNS records in Amazon Route53
