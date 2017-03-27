@@ -1,4 +1,4 @@
-## 2015-12-09 - Supported Version 1.3.0
+## 2015-12-09 - Supported Version 1.3.1
 
 This release includes:
 
